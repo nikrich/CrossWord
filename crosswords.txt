@@ -1,0 +1,17 @@
+reasonable/hello\n
+bulb/hello\n
+insurance/hello\n
+vigorous/hello\n
+thought/hello\n
+investment/hello\n
+volume/hello\n
+wage/hello\n
+drama/hello\n
+school/hello\n
+sentiment/hello\n
+AARGH/hello\n
+AARHUS/hello\n
+AARNIO/hello\n
+AARON/hello\n
+AARONBURR/hello\n
+AARONBURRCONSPIRAC/hello\n
