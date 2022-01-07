@@ -1,0 +1,11 @@
+reasonable/hello
+bulb/hello
+insurance/hello
+vigorous/hello
+thought/hello
+investment/hello
+volume/hello
+wage/hello
+drama/hello
+school/hello
+sentiment/hello
